@@ -31,7 +31,7 @@ Immerse yourself in a tense atmosphere where every sound could mean danger, and 
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/hub-release/HubRelease.zip)
+[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/game-release_202505/GameRelease.zip)
 
 ---
 
